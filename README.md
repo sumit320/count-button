@@ -1,2 +1,8 @@
-# count-button
-This repository contains a simple Count Button Project built using React and Vite, designed to demonstrate fundamental concepts of React, including state management and event handling. It is a lightweight, beginner-friendly project ideal for those looking to understand how React works in a modern development setup with Vite.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
